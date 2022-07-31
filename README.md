@@ -2,12 +2,24 @@
 wyf-cli
 ========
 
+[![NPM Package][npm]][npm-url]
+[![Build Size][build-size]][build-size-url]
+[![NPM Downloads][npm-downloads]][npmtrends-url]
+[![DeepScan][deepscan]][deepscan-url]
+[![Discord][discord]][discord-url]
+
 ### Usage ###
 
-## init
+## localhost
 
 ```shell
 sudo npm link --force
+```
+
+## download
+
+```shell
+npm i wyf-cli -g
 ```
 
 ## use
