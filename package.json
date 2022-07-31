@@ -1,0 +1,20 @@
+{
+  "name": "wyf-cli",
+  "version": "0.0.1",
+  "description": "It is a cli",
+  "main": "index.js",
+  "author": "wuyifan",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "wyf-cli": "bin/enter.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^9.0.2",
+    "ora": "^6.1.2"
+  }
+}
